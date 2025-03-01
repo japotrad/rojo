@@ -2,4 +2,4 @@
 
 The notes are embedded in the app in [Markdown format](https://github.com/japotrad/rojo/blob/main/readme/apps/markdown.md) and cannot by synced nor updated.
 
-Target audience: publishers.
+Target audience: Publishers.
